@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	background: #d3dbda;
+}.content{
+	width: 50%;
+	padding: 20%;
+	padding-top: 10%;
+	margin: auto;
+	text-align: center;
+}input{
+	padding: 10px;
+	width: 50%;
+	font-size: 100%;
+}button{
+	padding: 10px;
+	background: #bf0000;
+	color: white;
+	border:0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	cursor: pointer;
+	font-size: 100%;
+}button:hover{
+	background: red;
+}button:active{
+	background: #bf0000;
+}
+h3{
+	font-family: Segoe UI,Helvetica Neue,Helvetica,Lucida Grande,Arial,Ubuntu,Cantarell,Fira Sans,sans-serif;
+}
